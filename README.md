@@ -5,7 +5,7 @@
 <div align="center">
     <div>
         <a href="https://github.com/hdyoztrk">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=hdyoztrk&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=307F78&icon_color=f1c40f&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=hdyoztrk&show_icons=true&bg_color=ADFFF7&text_color=bdc3c7&title_color=307F78&icon_color=f1c40f&hide_border=true" />
         </a>
        <a href="https://github.com/hdyoztrk">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdyoztrk&bg_color=0d1117&text_color=#307F78&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
